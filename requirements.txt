@@ -1,0 +1,7 @@
+fastapi
+fastapi[standard]
+uvicorn
+sqlalchemy
+pyjwt[crypto]
+bcrypt
+psycopg2-binary
